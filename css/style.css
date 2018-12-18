@@ -23,7 +23,7 @@ body {
     font-size: 20px;
 }
 
-#tomImg {
+#jonahImg {
     border-radius: 50%;
     width: 50px;
 }
@@ -54,4 +54,14 @@ button {
 body{
 
     margin-left:20px;
+}
+
+input{
+    width: 315px;
+}
+
+img{
+    width: 760px;
+    display: flex;
+    justify-content: center;
 }
